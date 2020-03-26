@@ -1,0 +1,24 @@
+h1 {
+  font-family: 'Damion', cursive;
+  font-size: 5vw;
+}
+
+h3, p {
+  font-family: 'Oswald', sans-serif;
+}
+
+.content {
+  text-align: center;
+}
+
+.tunes {
+  margin: 5% auto;
+}
+
+.foot {
+  position: fixed;
+  bottom: 0;
+  margin: auto;
+  left: 0;
+  right: 0;
+}
