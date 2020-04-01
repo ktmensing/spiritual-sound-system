@@ -1,13 +1,27 @@
 h1 {
   font-family: 'Damion', cursive;
-  font-size: 5vw;
+  font-size: 7vw;
   background: -webkit-linear-gradient(0.5turn, #FB8CAB, #B4ABFC);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  margin: 2.5% 0; 
 }
 
 h2, h3, p {
   font-family: 'Oswald', sans-serif;
+  margin: 2.5% 0; 
+}
+
+h3 {
+   font-size: 28px;
+}
+
+h4 {
+  font-size: 22px;
+}
+
+p {
+  font-size: 20px;
 }
 
 .content {
@@ -15,7 +29,7 @@ h2, h3, p {
 }
 
 .tunes {
-  margin: 5% auto;
+  margin: 2.5% auto;
 }
 
 .foot {
