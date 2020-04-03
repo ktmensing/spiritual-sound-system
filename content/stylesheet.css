@@ -12,7 +12,7 @@ h2, h3, h4, p {
 }
 
  h3 {
-   font-size: 24px;
+   font-size: 22px;
 }
 
 h4 {
@@ -47,18 +47,18 @@ h4 {
 }
   
   h1 {
-   font-size: 8vw;
+   font-size: 9vw;
   }
   
   h3 {
-   font-size: 36px;
+   font-size: 38px;
 }
   
   h4 {
-  font-size: 32px;
+  font-size: 33px;
 }
   
   p {
-  font-size: 26px;
+  font-size: 28px;
 }
 }
