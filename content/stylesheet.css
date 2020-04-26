@@ -32,6 +32,11 @@ h4 {
     height: 450px;
   }
 
+.current_live {
+  width: 800px;
+    height: 450px;
+  }
+
 .past {
   width: 300px;
   height: 300px;
